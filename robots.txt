@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoolaekah.ok51.de/sitemap.xml
